@@ -1,0 +1,48 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Día del Padre - Dedicatoria a Papá</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        
+        h1 {
+            color: #333;
+        }
+        
+        p {
+            color: #555;
+        }
+        
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .image-container {
+            margin-top: 20px;
+        }
+        
+        img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Feliz Día del Padre, Papá</h1>
+        <p>Querido Papá, en este día tan especial quiero expresarte cuánto te quiero y agradecerte por ser un padre increíble. Tu amor incondicional, apoyo y guía han sido fundamentales en mi vida. Eres mi héroe y mi ejemplo a seguir.</p>
+        <p>Gracias por cada momento compartido, por tus consejos sabios y por estar siempre ahí para mí. Tu dedicación y sacrificio no pasan desapercibidos, y valoro todo lo que has hecho por mí.</p>
+        <p>En este Día del Padre, te deseo un día lleno de alegría y amor. Espero que disfrutes cada momento y que sepas lo especial que eres para mí. ¡Te quiero mucho, papá!</p>
+        <p>Con cariño, Vivin</p>
+        
+        <div class="image-container">
+            <img src="C:\Users\Lenovo\Pictures\Camera Roll\papa.jpg" alt="papa">
+        </div>
+    </div>
+</body>
+</html>
